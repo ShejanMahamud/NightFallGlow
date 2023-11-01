@@ -1,0 +1,36 @@
+{
+  "name": "nighfall-glow",
+  "displayName": "NightFall Glow",
+  "description": "Sweet beautiful VS Code dark theme from Shejan Mahamud",
+  "icon": "images/logo.png",
+  "version": "1.0.0",
+  "publisher": "ShejanMahamud",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShejanMahamud/NightFall-Glow-VS-Code-Theme"
+  },
+  "engines": {
+    "vscode": "^1.16.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "NightFallGlow",
+    "dark theme",
+    "sweet theme",
+    "shejan mahamud",
+    "shejanmahamud",
+    "NightFall Glow"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NightFallGlow - Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nightfallglow-dracula-theme.json"
+      }
+    ]
+  }
+}
