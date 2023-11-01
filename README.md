@@ -1,4 +1,4 @@
-<p align="center"><img width="800px" src="https://i.ibb.co/cCHw4zh/20231101-164802-0000.jpg"></p>
+<p align="center"><img width="800px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYZSvBrNVAMNzb1skzLxLnTDMhNbNU0p62grZBOXigJmgCWBuMau6CPDUb7UbpGUNNfq_7iinBWqbQ-9Hj1Rn-uP7mvz079uZgyW9pBKulgIdL1_V4gm7Jt4p0VmZ74xYruEqiCX291BCFjmRZsq-J67V2kTK40F6FfE_mDWF56lm55Me7mp0henEOBsE/s1600/20231101_164802_0000.jpg"></p>
 
 <p><br></p>
 
@@ -13,9 +13,9 @@ Sweet and beautiful soft dark theme for black VS Code lovers!<br> <a title="Shej
 
 ### NightFallGlow Dracula
 
-<p align="center"><img width="800px" src="https://i.ibb.co/2ZwbBbz/screen.png"></p>
-<p align="center"><img width="800px" src="https://i.ibb.co/bghtnHv/screen-1.png"></p>
-<p align="center"><img width="800px" src="https://i.ibb.co/xH5095C/screen-2.png"></p>
+<p align="center"><img width="800px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifxom4wlHzrObmThNnKB0AYLeYmj_lH__JhSSZeYm6zDJCG1YrkF6k5z0OlWT0uafPtF6vfemNkQNFn8fPVPqTxl8ACX7aIap-LsyUz4d1Cs7jwsYpv4D3WVK8PpcaoC6XWcizYRVTy66qyFVn2M9qXj1M5yR_7joL9DtC_-0hxo-SePJm_BUfr1J8xZE/s1600/screen.png"></p>
+<p align="center"><img width="800px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg05HApZ58eLwQv9Usi2fdkARqFr6xSHRD61MnVGJixyilT_dCV8H1TtT4iU6tWmg-aKKOhLBdyFg70DlYTFDeLHdN3LOmi_mWCGvKmdSGwf9CImCU2_n2E_ttlJCzqqtJAggbmdnvm-JBCNYVO71I1I9TMLlRSXsNYzCw5rbL4TqJXK4PhKFmMOw-sti0/s1600/screen%20%281%29.png"></p>
+<p align="center"><img width="800px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_SX0MoCE3_jGQeom_aUF4BFedc5Li7h9lmHKMdSvbpJGxEJ_LM6W04JZkLJXAasW7KNy1A8hhR4-CEN7m3RaQVhilekE_4xx9S4A7d17_EfTZ0xghH5I92JhNjVumNrGU8JoZjKm9SODbGl1IBnNDLkbTd-5ERt3SlPkI2MMGlY3DXc7c54ZAb0RQt78/s1600/screen%20%282%29.png"></p>
 
 ### Prerequisites
 
