@@ -4,8 +4,8 @@
 
 ## Brought to you by
 
-<p><a title="Shejan Mahamud" href="https://shejanmahamud.blogspot.com/">Shejan Mahamud</a></br>
-Sweet and beautiful soft dark theme for black VS Code lovers!<br> <a title="Shejan Mahamud" href="https://shejanmahamud.blogspot.com/">Know more</a></p>
+<p><a title="Shejan Mahamud" href="https://github.com/ShejanMahamud">Shejan Mahamud</a></br>
+Sweet and beautiful soft dark theme for black VS Code lovers!<br> <a title="Shejan Mahamud" href="https://github.com/ShejanMahamud">Know more</a></p>
 
 ---
 

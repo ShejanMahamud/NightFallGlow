@@ -3,7 +3,7 @@
   "displayName": "NightFall Glow",
   "description": "Sweet beautiful VS Code dark theme from Shejan Mahamud",
   "icon": "images/logo.png",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "publisher": "ShejanMahamud",
   "repository": {
     "type": "git",
@@ -35,6 +35,16 @@
         "label": "MidNightGlow - Peace of the eye",
         "uiTheme": "vs-dark",
         "path": "./themes/peace-of-eye-midnightglow-theme.json"
+      },
+      {
+        "label": "MidNightGlow - Peace of the eye",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl-nightfallglow.json"
+      },
+      {
+        "label": "MidNightGlow - Peace of the eye",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shades-of-grey-midnightglow.json"
       }
     ]
   }
