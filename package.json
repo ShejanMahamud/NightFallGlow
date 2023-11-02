@@ -29,22 +29,22 @@
       {
         "label": "NightFallGlow - Dracula",
         "uiTheme": "vs-dark",
-        "path": "./themes/nightfallglow-dracula-theme.json"
+        "path": "./themes/dracula-nightfallglow.json"
       },
       {
         "label": "NightFallGlow - Peace of the eye",
         "uiTheme": "vs-dark",
-        "path": "./themes/peace-of-eye-midnightglow-theme.json"
+        "path": "./themes/peace-of-eye-nightfallglow.json"
       },
       {
-        "label": "NightFallGlow - Peace of the eye",
+        "label": "NightFallGlow - Shades of gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shades-of-grey-nightfallglow.json"
+      },
+      {
+        "label": "NightFallGlow - NighOwl",
         "uiTheme": "vs-dark",
         "path": "./themes/night-owl-nightfallglow.json"
-      },
-      {
-        "label": "NightFallGlow - Peace of the eye",
-        "uiTheme": "vs-dark",
-        "path": "./themes/shades-of-grey-midnightglow.json"
       }
     ]
   }
