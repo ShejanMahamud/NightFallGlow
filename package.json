@@ -32,17 +32,17 @@
         "path": "./themes/nightfallglow-dracula-theme.json"
       },
       {
-        "label": "MidNightGlow - Peace of the eye",
+        "label": "NightFallGlow - Peace of the eye",
         "uiTheme": "vs-dark",
         "path": "./themes/peace-of-eye-midnightglow-theme.json"
       },
       {
-        "label": "MidNightGlow - Peace of the eye",
+        "label": "NightFallGlow - Peace of the eye",
         "uiTheme": "vs-dark",
         "path": "./themes/night-owl-nightfallglow.json"
       },
       {
-        "label": "MidNightGlow - Peace of the eye",
+        "label": "NightFallGlow - Peace of the eye",
         "uiTheme": "vs-dark",
         "path": "./themes/shades-of-grey-midnightglow.json"
       }
