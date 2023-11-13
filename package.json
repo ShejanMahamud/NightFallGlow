@@ -3,7 +3,7 @@
   "displayName": "NightFall Glow",
   "description": "Sweet beautiful VS Code dark theme from Shejan Mahamud",
   "icon": "images/logo.png",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "ShejanMahamud",
   "repository": {
     "type": "git",
@@ -52,14 +52,14 @@
         "path": "./themes/ayu-dark-nightfallglow.json"
       },
       {
-        "label": "NightFallGlow - Ayu Dark Bordered",
+        "label": "NightFallGlow - Andromeda",
         "uiTheme": "vs-dark",
-        "path": "./themes/ayu-dark-bordered-nightfallglow.json"
+        "path": "./themes/andromeda-nightfallglow.json"
       },
       {
-        "label": "NightFallGlow - Cyberpunk",
+        "label": "NightFallGlow - BlackBone",
         "uiTheme": "vs-dark",
-        "path": "./themes/cyberpunk-nightfallglow.json"
+        "path": "./themes/blackbone-nightfallglow.json"
       }
     ]
   }
