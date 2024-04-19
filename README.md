@@ -1,21 +1,50 @@
-<p align="center"><img width="800px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYZSvBrNVAMNzb1skzLxLnTDMhNbNU0p62grZBOXigJmgCWBuMau6CPDUb7UbpGUNNfq_7iinBWqbQ-9Hj1Rn-uP7mvz079uZgyW9pBKulgIdL1_V4gm7Jt4p0VmZ74xYruEqiCX291BCFjmRZsq-J67V2kTK40F6FfE_mDWF56lm55Me7mp0henEOBsE/s1600/20231101_164802_0000.jpg"></p>
+# NightFallGlow - Awesome Dark Theme Collection
+
+<P>Awesome Dark Theme collections for dark theme lovers.</p>
+
+<p align="center"><img width="800px" src="https://image-0.uhdpaper.com/wallpaper/island-night-moon-scenery-digital-art-hd-wallpaper-uhdpaper.com-289@0@j.jpg"></p>
 
 <p><br></p>
 
-## Brought to you by
+# Themes List
 
-<p><a title="Shejan Mahamud" href="https://shejanmahamud.me">Shejan Mahamud</a></br>
-Sweet and beautiful soft dark theme for black VS Code lovers!<br> <a title="Shejan Mahamud" href="https://shejanmahamud.me">Know more</a></p>
-
----
+> - NightFallGlow - Dracula
+> - NightFallGlow - Peace of the eye
+> - NightFallGlow - Shades of gray
+> - NightFallGlow - NighOwl
+> - NightFallGlow - Ayu Dark
+> - NightFallGlow - Andromeda
+> - NightFallGlow - BlackBone
 
 ## Theme Screenshots
 
-### NightFallGlow
+> - NightFallGlow - Dracula
 
-<p align="center"><img width="800px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifxom4wlHzrObmThNnKB0AYLeYmj_lH__JhSSZeYm6zDJCG1YrkF6k5z0OlWT0uafPtF6vfemNkQNFn8fPVPqTxl8ACX7aIap-LsyUz4d1Cs7jwsYpv4D3WVK8PpcaoC6XWcizYRVTy66qyFVn2M9qXj1M5yR_7joL9DtC_-0hxo-SePJm_BUfr1J8xZE/s1600/screen.png"></p>
-<p align="center"><img width="800px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg05HApZ58eLwQv9Usi2fdkARqFr6xSHRD61MnVGJixyilT_dCV8H1TtT4iU6tWmg-aKKOhLBdyFg70DlYTFDeLHdN3LOmi_mWCGvKmdSGwf9CImCU2_n2E_ttlJCzqqtJAggbmdnvm-JBCNYVO71I1I9TMLlRSXsNYzCw5rbL4TqJXK4PhKFmMOw-sti0/s1600/screen%20%281%29.png"></p>
-<p align="center"><img width="800px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_SX0MoCE3_jGQeom_aUF4BFedc5Li7h9lmHKMdSvbpJGxEJ_LM6W04JZkLJXAasW7KNy1A8hhR4-CEN7m3RaQVhilekE_4xx9S4A7d17_EfTZ0xghH5I92JhNjVumNrGU8JoZjKm9SODbGl1IBnNDLkbTd-5ERt3SlPkI2MMGlY3DXc7c54ZAb0RQt78/s1600/screen%20%282%29.png"></p>
+<p align="center"><img width="800px" src="https://i.ibb.co/stC6Cq4/dracula.png"></p>
+
+> - NightFallGlow - Peace of the eye
+
+<p align="center"><img width="800px" src="https://i.ibb.co/jHqZBSC/peace-of-eye.png"></p>
+
+> - NightFallGlow - Shades of gray
+
+<p align="center"><img width="800px" src="https://i.ibb.co/qyJ5txV/shades-of-gray.png"></p>
+
+> - NightFallGlow - NighOwl
+
+<p align="center"><img width="800px" src="https://i.ibb.co/BN1NpGg/night-owl.png"></p>
+
+> - NightFallGlow - Ayu Dark
+
+<p align="center"><img width="800px" src="https://i.ibb.co/0yh2YY8/ayu-dark.png"></p>
+
+> - NightFallGlow - Andromeda
+
+<p align="center"><img width="800px" src="https://i.ibb.co/ss9sY7H/andromeda.png"></p>
+
+> - NightFallGlow - BlackBone
+
+<p align="center"><img width="800px" src="https://i.ibb.co/p2SB5TT/backbone.png"></p>
 
 ### Prerequisites
 
@@ -23,7 +52,7 @@ This theme is compatible for VS Code version 1.16.0+
 
 ## Recommended settings for a better experience
 
-```js
+```json
 {
   // editor
   "window.zoomLevel": 1,
@@ -99,4 +128,4 @@ This theme is compatible for VS Code version 1.16.0+
 
 ---
 
-<p align="center">Copyright &copy; 2023 Shejan Mahamud</p>
+<p align="center">Copyright &copy; 2024 Shejan Mahamud</p>

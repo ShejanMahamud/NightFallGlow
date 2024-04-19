@@ -1,13 +1,13 @@
 {
   "name": "nightfall-glow",
   "displayName": "NightFall Glow",
-  "description": "Sweet beautiful VS Code dark theme from Shejan Mahamud",
+  "description": "Awesome dark theme collection for dark lovers",
   "icon": "images/logo.png",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "ShejanMahamud",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShejanMahamud/nightfall-glow-vs-code-theme"
+    "url": "https://github.com/ShejanMahamud/NightFallGlow"
   },
   "engines": {
     "vscode": "^1.16.0"
