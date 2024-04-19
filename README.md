@@ -1,6 +1,6 @@
 # NightFallGlow - Awesome Dark Theme Collection
 
-<P>Awesome Dark Theme collections for dark theme lovers.</p>
+<P>Awesome & Aesthetic Dark Theme collections</p>
 
 <p align="center"><img width="800px" src="https://i.ibb.co/Ypt9jLs/nightfallglow.jpg"></p>
 
